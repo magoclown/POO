@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\magoc\source\repos\Semana02 POO1\Semana02 POO1\Source.cpp(162,14): warning C4244:  'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\magoc\source\repos\Semana02 POO1\Semana02 POO1\Source.cpp(167,1): warning C4326:  el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Semana02 POO1.vcxproj -> C:\Users\magoc\source\repos\Semana02 POO1\Debug\Semana02 POO1.exe

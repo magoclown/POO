@@ -1,0 +1,5 @@
+﻿  Character.cpp
+  Source.cpp
+  Generando código...
+C:\Users\magoc\source\repos\Semana04 POO03\Semana04 POO03\Source.cpp(8,1): warning C4326:  el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Semana04 POO03.vcxproj -> C:\Users\magoc\source\repos\Semana04 POO03\Debug\Semana04 POO03.exe

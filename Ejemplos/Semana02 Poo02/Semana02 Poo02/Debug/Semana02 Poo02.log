@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\magoc\source\repos\Semana02 Poo02\Semana02 Poo02\Source.cpp(45,14): warning C4244:  'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\magoc\source\repos\Semana02 Poo02\Semana02 Poo02\Source.cpp(85,16): warning C4244:  'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\magoc\source\repos\Semana02 Poo02\Semana02 Poo02\Source.cpp(86,15): warning C4244:  'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\magoc\source\repos\Semana02 Poo02\Semana02 Poo02\Source.cpp(102,1): warning C4326:  el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\magoc\source\repos\Semana02 Poo02\Semana02 Poo02\Source.cpp(113,24): warning C4244:  'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Semana02 Poo02.vcxproj -> C:\Users\magoc\source\repos\Semana02 Poo02\Debug\Semana02 Poo02.exe
