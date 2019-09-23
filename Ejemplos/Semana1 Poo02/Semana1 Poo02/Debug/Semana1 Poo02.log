@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\magoc\source\repos\Semana1 Poo02\Semana1 Poo02\Source.cpp(61,13): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\magoc\source\repos\Semana1 Poo02\Semana1 Poo02\Source.cpp(67,13): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\magoc\source\repos\Semana1 Poo02\Semana1 Poo02\Source.cpp(73,13): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\magoc\source\repos\Semana1 Poo02\Semana1 Poo02\Source.cpp(115,1): warning C4326:  el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Semana1 Poo02.vcxproj -> C:\Users\magoc\source\repos\Semana1 Poo02\Debug\Semana1 Poo02.exe

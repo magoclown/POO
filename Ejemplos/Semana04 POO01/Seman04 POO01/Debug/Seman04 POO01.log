@@ -1,0 +1,7 @@
+﻿  Character.cpp
+  Source.cpp
+C:\Users\magoc\source\repos\Seman04 POO01\Seman04 POO01\Character.h(3,9): warning C4068:  pragma desconocida
+C:\Users\magoc\source\repos\Seman04 POO01\Seman04 POO01\Character.h(3,9): warning C4068:  pragma desconocida
+  Generando código...
+C:\Users\magoc\source\repos\Seman04 POO01\Seman04 POO01\Source.cpp(6,1): warning C4326:  el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Seman04 POO01.vcxproj -> C:\Users\magoc\source\repos\Seman04 POO01\Debug\Seman04 POO01.exe
